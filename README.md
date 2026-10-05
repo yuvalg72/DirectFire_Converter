@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a fork of [glennake/DirectFire_Converter](https://github.com/glennake/DirectFire_Converter). Original authorship belongs to the upstream project and its contributors; this repository does not claim first-party authorship of inherited work.
+
+- **Local purpose:** Reference fork of the DirectFire firewall configuration conversion tool.
+- **Local changes:** Before this notice, GitHub reported this fork as **identical to upstream**; this documentation notice is the local change introduced by this PR.
+- **Sync model:** Snapshot/reference fork. Upstream synchronization is explicit and must not be assumed automatically.
+- **License and attribution:** The inherited project is reported by GitHub as **GPL-3.0**. The existing license and attribution files remain authoritative.
+- **Links and project claims:** Documentation, project status, support statements, and release/issue references below originate from the upstream project unless explicitly marked as local.
+
+---
+
 # DirectFire Converter
 
 DirectFire Converter is a firewall configuration conversion tool written in Python.
